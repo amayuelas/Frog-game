@@ -17,6 +17,7 @@ There are clases for:
 - Screen (Pantalla)
 - Main (Principal)
 - Scores (Puntuacions)
+
 The .h files are stored in the my-lib directory, while the .cpp files are in the cpp folder. No more explanation needed as all the functions are very well commented.
 
 # Execution instructions
