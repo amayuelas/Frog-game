@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 05/06/2015 18:03:21.
+     1>Proyecto "C:\Users\Alfonso\Downloads\GranotaGrafic\GranotaGrafic.vcxproj" en el nodo 2 (Build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>Link:
+         GranotaGrafic.vcxproj -> C:\Users\Alfonso\Downloads\GranotaGrafic\\Program\GranotaGrafic.exe
+     1>Compilación del proyecto terminada "C:\Users\Alfonso\Downloads\GranotaGrafic\GranotaGrafic.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.13
